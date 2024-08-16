@@ -101,9 +101,9 @@ body {
    .presentacion__enlaces__link:hover{
         background-color:var(--color-hover);
         color:var(--color-secundario);
-        font-size: 34px;
-        border-radius: 20px;
-        border: 10px solid var(--color-terciario);
+        font-size: 1.5rem;
+        border-radius: 1rem;
+        border: 0.8rem solid var(--color-terciario);
         cursor: pointer;
    }
 
